@@ -8,3 +8,7 @@
 - Terminal navigation
 - File manipulation
 - WSL usage
+
+## Java Skills
+- Backend development
+- Spring Framework
