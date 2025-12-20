@@ -16,3 +16,8 @@ This repository tracks my progress through Week 1 of intensive Git training.
 - Made first commits
 - Learning the three-state workflow
 
+### Day 2
+- Mastered staging area workflow
+- Created skills tracking document
+- Practicing atomic commits
+- Learning diff commands
