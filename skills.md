@@ -12,3 +12,8 @@
 ## Java Skills
 - Backend development
 - Spring Framework
+
+## Version Control Skills
+- Branch creation and management
+- Parallel development workflow
+- Branch switching
