@@ -12,6 +12,8 @@
 ## Java Skills
 - Backend development
 - Spring Framework
+- Microservices architecture
+- Unit testing with JUnit
 
 ## Version Control Skills
 - Branch creation and management
