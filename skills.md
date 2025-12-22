@@ -14,6 +14,8 @@
 - Spring Framework
 - RESTful API design
 - Database integration with JPA
+- Microservices architecture
+- Unit testing with JUnit
 
 ## Version Control Skills
 - Branch creation and management
