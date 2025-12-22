@@ -21,3 +21,10 @@ This repository tracks my progress through Week 1 of intensive Git training.
 - Created skills tracking document
 - Practicing atomic commits
 - Learning diff commands
+
+### Day 3
+- Learned branching fundamentals
+- Created multiple feature branches
+- Successfully merged branches
+- Practiced paralled development workflow
+- Understanding production vs development branches
