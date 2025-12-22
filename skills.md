@@ -12,8 +12,11 @@
 ## Java Skills
 - Backend development
 - Spring Framework
+- RESTful API design
+- Database integration with JPA
 
 ## Version Control Skills
 - Branch creation and management
 - Parallel development workflow
 - Branch switching
+
