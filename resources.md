@@ -14,3 +14,7 @@
 - 'git log' - View commit history
 - 'git log --oneline' - Condensed history
 
+## Conflict Resolution Resources
+- Visual guide: https://git-scm.com/docs/git-merge
+- Practice scenarios
+- Team communication best practices
