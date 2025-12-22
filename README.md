@@ -10,6 +10,8 @@ This repository tracks my progress through Week 1 of intensive Git training.
 - Prepare for team collaboration workflows
 - Understand merge strategies
 - Practice real-world scenarios
+- Master conflict resolution
+- Build confidence with team workflows
 
 ## Daily Log
 

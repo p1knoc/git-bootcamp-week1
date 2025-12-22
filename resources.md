@@ -16,5 +16,7 @@
 
 ## Advanced Git Resources
 - Pro Git book: https://git-scm.com/book
+- Visual guide: https://git-scm.com/docs/git-merge
 - Interactive tutorials
 - Video courses
+- Team communication best practices
