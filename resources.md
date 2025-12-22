@@ -14,3 +14,7 @@
 - 'git log' - View commit history
 - 'git log --oneline' - Condensed history
 
+## Advanced Git Resources
+- Pro Git book: https://git-scm.com/book
+- Interactive tutorials
+- Video courses

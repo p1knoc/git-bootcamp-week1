@@ -8,6 +8,8 @@ This repository tracks my progress through Week 1 of intensive Git training.
 - Build muscle memory for core commands
 - Understand branching and merging
 - Prepare for team collaboration workflows
+- Understand merge strategies
+- Practice real-world scenarios
 
 ## Daily Log
 
