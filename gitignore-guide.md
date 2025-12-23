@@ -34,7 +34,7 @@
 - Use log aggregation services instead
 
 ### Testing .gitignore
-
+```bash
 # Create a test directory
 mkdir gitignore-test
 cd gitignore-test
@@ -49,3 +49,4 @@ touch target/output.jar
 git status
 
 # No files shown = .gitignore working!
+```
